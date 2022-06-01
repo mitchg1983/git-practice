@@ -3,6 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <header><h1 style={{backgroundColor: 'pink'}}>This is the NEW header!!!</h1></header>
       <header>
         <h1 style={{backgroundColor: 'red'}}>This is the header</h1>
       </header>
