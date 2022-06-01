@@ -7,6 +7,8 @@ function App() {
       <header>
         <h1 style={{backgroundColor: 'red'}}>This is the header</h1>
       </header>
+<div>This was added by a developer for section 3</div>
+      
         <img src='https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png' className="App-logo" alt="logo" />
         <h1>
           Git practice

@@ -1,36 +1,50 @@
 What is Git?
-
-Git is a version control system used for mantaining updates and revisions on software.
+It's a version control system, open source. You can track changes and roll back to previous versions.
 
 What is the difference between Git and Github?
-
-Git is the actual technology for version control and Github is a site where projects can be hosted an mantained with Git.
+github.com! Remote repositories that we use to collaborate with others and save our work.
 
 What does it mean to commit changes in Git?
+Basically save your work, but to the master file.
 
 What does `staging` mean in Git?
+Getting files ready to save, before actually saving them. You need to be careful you aren't overwriting something imporant. Stay organized.
 
 What does the `git add` command do?
+It tells the system that you want to add this file to the staging area.
 
 What does the `git commit` command do?
+It saves your work to the master file.
 
 What is a `commit` in git?
+It's an action you take to commit changes.
 
 What are git branches?
+A 'copy' of a file, or files, that you can use while working. It's a snapshot of the current status, when you got it, of your software.
 
 How do we create a new branch?
+git checkout -b 'myNewBranch'
 
 How can we switch between branches?
+git branch 'myNewBranch'
 
 What is 'merging' in Git?
+Incorporating your changes into the master file.
 
 What does it mean to 'rebase' in Git?
+I think of it like getting a new snapshot of the master file. Updates your branch, your copy, so your changes are put in the right order; this is helpful if other people have merged changes with main, after you checkout out your branch.
 
 What is a git remote repository?
+Stores all the data in a place where it can be accessed from anywhere at any time.
 
 How do we pull the latest changes from a remote repository into our local machine?
+git pull main
 
 How to push our changes to the remote repository?
+git add .a
+git commit -m "Added question answers."
+git pull main
+git push
 
 What is a merge request and why are they useful?
-
+Merge, combine, two branches into one.
