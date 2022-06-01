@@ -1,0 +1,32 @@
+What is Git?
+
+What is the difference between Git and Github?
+
+What does it mean to commit changes in Git?
+
+What does `staging` mean in Git?
+
+What does the `git add` command do?
+
+What does the `git commit` command do?
+
+What is a `commit` in git?
+
+What are git branches?
+
+How do we create a new branch?
+
+How can we switch between branches?
+
+What is 'merging' in Git?
+
+What does it mean to 'rebase' in Git?
+
+What is a git remote repository?
+
+How do we pull the latest changes from a remote repository into our local machine?
+
+How to push our changes to the remote repository?
+
+What is a merge request and why are they useful?
+
