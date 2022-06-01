@@ -1,8 +1,10 @@
 What is Git?
 
-Test
+Git is a version control system used for mantaining updates and revisions on software.
 
 What is the difference between Git and Github?
+
+Git is the actual technology for version control and Github is a site where projects can be hosted an mantained with Git.
 
 What does it mean to commit changes in Git?
 
